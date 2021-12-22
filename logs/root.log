@@ -1,0 +1,18 @@
+2021-12-17 10:29:09 CreateThreadMethod01.java INFO 继承Thread类来创建线程
+2021-12-17 10:29:09 CreateThreadMethod01.java INFO 继承Thread类来创建线程
+2021-12-17 10:29:09 CreateThreadMethod01.java INFO 继承Thread类来创建线程
+2021-12-17 10:30:01 CreateThreadMethod01.java INFO 继承Thread类来创建线程
+2021-12-17 10:30:01 CreateThreadMethod01.java INFO 继承Thread类来创建线程
+2021-12-17 10:43:53 CreateThreadMethod02.java INFO 我是实现Runnable的任务
+2021-12-17 10:45:39 CreatThreadMethod03.java INFO 我是实现Callable的任务
+2021-12-17 10:47:12 CreatThreadMethod03.java INFO 我是实现Callable的任务
+2021-12-17 10:47:12 CreatThreadMethod03.java INFO 执行返回值：success
+2021-12-17 11:03:34 ThreadApiTest.java INFO ---- 2>0
+2021-12-17 11:07:24 ThreadApiTest.java INFO abc
+2021-12-17 11:07:36 ThreadApiTest.java INFO abc
+2021-12-17 11:14:33 ThreadApiTest.java INFO r:10
+2021-12-17 11:29:17 ThreadApiTest.java INFO 开始执行
+2021-12-17 11:29:17 ThreadApiTest.java INFO 开始执行
+2021-12-17 11:29:19 ThreadApiTest.java INFO 开始唤醒
+2021-12-17 11:29:19 ThreadApiTest.java INFO 继续执行核心逻辑
+2021-12-17 11:29:19 ThreadApiTest.java INFO 继续执行核心逻辑
