@@ -16,3 +16,5 @@
 2021-12-17 11:29:19 ThreadApiTest.java INFO 开始唤醒
 2021-12-17 11:29:19 ThreadApiTest.java INFO 继续执行核心逻辑
 2021-12-17 11:29:19 ThreadApiTest.java INFO 继续执行核心逻辑
+2021-12-31 14:04:03 ResponseProcessCookies.java WARN Cookie rejected [BAIDUID="FE7449598345B6A884F92FC2BB37F231:FG=1", version:1, domain:.baidu.com, path:/, expiry:Fri Jan 01 07:55:55 CST 2038] Illegal domain attribute ".baidu.com". Domain of origin: "aip.baidubce.com"
+2021-12-31 14:04:40 ResponseProcessCookies.java WARN Cookie rejected [BAIDUID="E49C9E34F0EB59537DA81CE39A7D201D:FG=1", version:1, domain:.baidu.com, path:/, expiry:Fri Jan 01 07:55:55 CST 2038] Illegal domain attribute ".baidu.com". Domain of origin: "aip.baidubce.com"
