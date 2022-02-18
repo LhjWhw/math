@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f2d47fb3-6491-4248-a3f8-c09e2b071cc0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/practice/thread/CreateThreadMethod04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/practice/thread/CreateThreadMethod04.java" afterDir="false" />
-    </list>
+    <list default="true" id="f2d47fb3-6491-4248-a3f8-c09e2b071cc0" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,10 +13,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/thread/ThreadPracticeDemo01.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/thread/CreateThreadMethod04.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="46" column="19" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+            <state relative-caret-position="2142">
+              <caret line="126" column="11" lean-forward="true" selection-start-line="126" selection-start-column="11" selection-end-line="126" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/algorithm/easy/OtherTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="43" column="44" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="43" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -26,83 +33,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8">
-              <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/thread/CreateThreadMethod03.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/thread/CreateThreadMethod04.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/algorithm/easy/SecondTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="93" column="10" lean-forward="true" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="62" column="38" selection-start-line="62" selection-start-column="38" selection-end-line="62" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="322" column="31" selection-start-line="322" selection-start-column="13" selection-end-line="322" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/AbstractExecutorService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="70" column="67" selection-start-line="70" selection-start-column="67" selection-end-line="70" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/util/concurrent/ExecutorService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="303">
-              <caret line="136" column="17" selection-start-line="136" selection-start-column="17" selection-end-line="136" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/thread/CreateThreadMethod01.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/thread/CreateThreadMethod02.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="260">
+              <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -124,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/practice/singleton/LazySingletonSafeDoubleCheckDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practice/singleton/LazySingletonSafe.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practice/singleton/LazySingletonSafeInnerClassDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/practice/singleton/SingletonEnumDemo.java" />
@@ -175,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/practice/thread/ThreadPracticeDemo01.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/practice/thread/CreateThreadMethod04.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/practice/algorithm/easy/SecondTest.java" />
       </list>
     </option>
   </component>
@@ -273,43 +211,6 @@
               <item name="practice" type="462c0819:PsiDirectoryNode" />
               <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="math" type="b2602c69:ProjectViewProjectNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="CreateThreadMethod01.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="math" type="b2602c69:ProjectViewProjectNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="CreateThreadMethod02.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="math" type="b2602c69:ProjectViewProjectNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="practice" type="462c0819:PsiDirectoryNode" />
-              <item name="thread" type="462c0819:PsiDirectoryNode" />
-              <item name="CreateThreadMethod03.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="math" type="b2602c69:ProjectViewProjectNode" />
-              <item name="math" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -320,7 +221,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1644998398810" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1645149592803" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -347,33 +248,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ThreadPracticeDemo01">
-    <configuration name="CarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.datastructure.CarDemo" />
-      <module name="math" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.datastructure.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="JDKProxyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.practice.designmode.proxy.JDKProxyTest" />
-      <module name="math" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.practice.designmode.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SecondTest.test03">
     <configuration name="StrategyTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.practice.designmode.strategy.StrategyTest" />
       <module name="math" />
@@ -400,12 +275,61 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondTest.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="math" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.algorithm.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practice.algorithm.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.algorithm.easy.SecondTest" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTest.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="math" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.algorithm.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practice.algorithm.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.algorithm.easy.SecondTest" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondTest.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="math" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.practice.algorithm.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.practice.algorithm.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.practice.algorithm.easy.SecondTest" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SecondTest.test03" />
+        <item itemvalue="JUnit.SecondTest.test02" />
+        <item itemvalue="JUnit.SecondTest.test01" />
         <item itemvalue="Application.ThreadPracticeDemo01" />
         <item itemvalue="Application.StrategyTest" />
-        <item itemvalue="Application.JDKProxyTest" />
-        <item itemvalue="Application.CarDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -437,20 +361,11 @@
       <workItem from="1641448356886" duration="312000" />
       <workItem from="1641880676093" duration="525000" />
       <workItem from="1644678253746" duration="340000" />
-      <workItem from="1644804159206" duration="7914000" />
+      <workItem from="1644804159206" duration="12954000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="OtherTest_test06 - 2021.12.30 at 10h 41m 29s.xml">
-      <configuration name="OtherTest.test06" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OtherTest_test07 - 2021.12.30 at 10h 44m 05s.xml">
-      <configuration name="OtherTest.test07" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="OtherTest_test08 - 2021.12.30 at 10h 46m 11s.xml">
-      <configuration name="OtherTest.test08" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OtherTest_test08 - 2021.12.30 at 10h 47m 20s.xml">
       <configuration name="OtherTest.test08" configurationId="JUnit" />
     </history-entry>
@@ -472,15 +387,24 @@
     <history-entry file="OtherTest_test11 - 2021.12.30 at 10h 54m 22s.xml">
       <configuration name="OtherTest.test11" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SecondTest_test01 - 2022.02.18 at 09h 43m 02s.xml">
+      <configuration name="SecondTest.test01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondTest_test02 - 2022.02.18 at 09h 44m 00s.xml">
+      <configuration name="SecondTest.test02" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SecondTest_test02 - 2022.02.18 at 09h 50m 32s.xml">
+      <configuration name="SecondTest.test02" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92851000" />
+    <option name="totallyTimeSpent" value="97891000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18620269" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24847375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2753358" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -490,7 +414,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2755102" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2755102" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -517,7 +441,7 @@
       <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18620269" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24847375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.2753358" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -563,13 +487,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_301.jdk/Contents/Home/src.zip!/java/lang/reflect/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="718" column="43" selection-start-line="718" selection-start-column="37" selection-end-line="718" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/com/practice/StuProxy.class" />
     <entry file="file://$PROJECT_DIR$/target/StuProxy.class" />
     <entry file="file://$PROJECT_DIR$/logs/root.log">
@@ -833,16 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/algorithm/easy/OtherTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2806">
-          <caret line="23" column="7" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/thread/ThreadApiTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
@@ -943,8 +850,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/thread/CreateThreadMethod04.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="93" column="10" lean-forward="true" selection-start-line="93" selection-start-column="10" selection-end-line="93" selection-end-column="10" />
+        <state relative-caret-position="2142">
+          <caret line="126" column="11" lean-forward="true" selection-start-line="126" selection-start-column="11" selection-end-line="126" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/algorithm/easy/OtherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="43" column="44" lean-forward="true" selection-start-line="42" selection-start-column="8" selection-end-line="43" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/practice/algorithm/easy/SecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="42" column="25" lean-forward="true" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
