@@ -16,6 +16,7 @@ public class ZFTestDemo{
 
     public static void main(String[] args) throws Exception{
 
+
         Thread threadA = new Thread(()->{
             while(true){
                 count.addAndGet(1);
